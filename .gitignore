@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+Data/
+FigData/
+Figure/
+*.nc
+*.nc4
+*.grb
+*.grib
+*.h5
+*.hdf5
+*.tar.gz
+*.csv
+__pycache__/

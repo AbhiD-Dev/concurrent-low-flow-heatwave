@@ -1,0 +1,27 @@
+# Core numerical / data handling
+numpy
+pandas
+scipy
+xarray
+netCDF4
+pyarrow
+
+# Geospatial
+geopandas
+shapely
+regionmask
+cartopy
+
+# Plotting / colormaps
+matplotlib
+seaborn
+cmaps
+cmcrameri
+
+# Statistics
+pymannkendall
+jenkspy
+
+# Notebook environment
+jupyter
+ipython
