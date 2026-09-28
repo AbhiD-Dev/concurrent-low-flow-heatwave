@@ -79,7 +79,3 @@ data hosting link here, e.g. Zenodo/OSF DOI]**.
 ## License
 
 Code in this repository is released under the [MIT License](LICENSE).
-
-If large data files are hosted externally (e.g. on Zenodo, per Communications
-Earth & Environment's data availability policy), note their license there too
-(CC-BY 4.0 is the common choice for scientific data).
